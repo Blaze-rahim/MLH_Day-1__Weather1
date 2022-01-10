@@ -2,7 +2,7 @@ import requests
 from datetime import datetime 
 import time
 
-user_api = "a744e90f0650f87a9b5c08d35f7b27a9" #add ur own api dont wanna disclose mine
+user_api = "" #add ur own api dont wanna disclose mine
 
 location = input("Enter your city u wanna look about : ")
 
